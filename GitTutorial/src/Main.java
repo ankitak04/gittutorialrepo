@@ -7,6 +7,7 @@ public class Main {
 		Calculation c = new Calculation();
 		c.sum(10, 20);
 		c.sub(20, 10);
+		c.div(20, 10);
 	}
 
 }
