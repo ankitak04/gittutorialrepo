@@ -14,6 +14,12 @@ public class Calculation {
 		
 		System.out.println("Substraction of two integer:" + sub);
 	}
+	
+	public void div(int a, int b)
+	{
+		int d = a/b;
+		System.out.println("Division  of two numbers:" + d);
+	}
 
 	
 }
