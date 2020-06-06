@@ -5,6 +5,7 @@ public class Mapop {
 	{
 		System.out.println("MapOp class is created");
 		
+		System.out.println("ABC");
 	}
 
 }
