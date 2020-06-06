@@ -1,5 +1,5 @@
 
-public class Details {
+public class StringJava {
 	
 	public static void main(String[] args)
 	{
@@ -11,6 +11,15 @@ public class Details {
 	for(String s: name)
 	{
 		System.out.println(s);
+	}
+	
+	System.out.println("AAAAAAAAAAAAAAA");
+	
+	for(String s: name)
+	{
+		int length = s.length();
+		
+		System.out.println("Length of word:" + length);
 	}
 	
 }
