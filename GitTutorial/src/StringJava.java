@@ -21,6 +21,11 @@ public class StringJava {
 		System.out.println("Length of word:" + length);
 	}
 	
+	for(String s: name)
+	{
+		System.out.print(s);
+	}
+	
 }
 }
 
