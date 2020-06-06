@@ -13,7 +13,6 @@ public class StringJava {
 		System.out.println(s);
 	}
 	
-	System.out.println("AAAAAAAAAAAAAAA");
 	
 	for(String s: name)
 	{
